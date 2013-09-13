@@ -1,0 +1,8 @@
+# Copy this file to ~/.my-hg-log.yaml and add your own values.
+hg:
+  users:
+    - <my-username> # e.g. pgraham1
+    - <my-name>     # e.g. Philip Graham
+    - <other-names> # ...
+  repos:
+    - ssh://<username>@<server>//<repo-path>/<repo-name> # ...
