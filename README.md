@@ -4,6 +4,7 @@ Enhanced Mercurial Log
 ## Install
 
  1. Clone from github:
+
         git clone https://github.com/pgraham/bugfree-robot.git
         cd bugfree-robot/
 
@@ -14,6 +15,7 @@ Enhanced Mercurial Log
     would like, results will be aggregated.
  6. Make my-hg-log executable: `chmod +x my-hg-log.php`
  7. \[Optional] Add my-hg-log to PATH (assuming ~/bin is in your PATH):
+
         cd ~/bin
         ln -s /path/to/bugfree-robot/my-hg-log.php my-hg-log
 
